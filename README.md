@@ -1,4 +1,4 @@
-# Nueral-network-Identifier
+# Neural-network-Identifier
 
 
 This repository contains the code and files for a neural network identifier implemented using Simulink in MATLAB. The purpose of this project is to develop an identification model for a plant using a neural network.
